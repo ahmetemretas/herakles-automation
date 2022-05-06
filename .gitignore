@@ -1,0 +1,7 @@
+*.iml
+/.gitignore/
+
+
+
+# Project exclude paths
+/target/
